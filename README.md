@@ -7,10 +7,8 @@
 
 ㅤ
 
-<img width="959" height="599" alt="Untitled57_20260325175619" src="https://github.com/user-attachments/assets/c86833a3-cd54-4061-b905-91097d03e2e4" />
-good morning projectmoon
-
-(i dont share my manager id, i prefer keeping the manager profile anonymous + i dont need that much friends listed)
+<img width="1919" height="1199" alt="image-33" src="https://github.com/user-attachments/assets/2f785a13-2eb9-41e8-a899-f6f1bdc97aea" />
+my excuse to put this image cause i cant stop laughing at it. i genuinely dont know what is wrong with myself
 <!--
 
 <div align="center">
