@@ -7,7 +7,8 @@
 
 ㅤ
 
-i might. redesign. soon
+<img width="1017" height="808" alt="credit from a user in tumblr" src="https://github.com/user-attachments/assets/88083277-4ebb-44f9-8e3c-444e6bd4ed20" />
+
 <!--
 
 <div align="center">
