@@ -1,13 +1,15 @@
 <div align="center"> 
-  <a href="https://rentry.co/5or3">read byi</a>ㅤ
-  <a href="https://spork.atabook.org">atabook</a>ㅤ
-  <a href="https://lcb53.straw.page">strawpage</a>ㅤ
+  <img src="https://github.com/user-attachments/assets/4262ec5d-a411-41ed-ad40-6a826fe64a2a"/>
+  
+  <a href="https://rentry.co/5or3">read byi</a>ㅤㅤ
+  <a href="https://spork.atabook.org">atabook</a>ㅤㅤ
+  <a href="https://lcb53.straw.page">strawpage</a>ㅤㅤ
   <a href="https://guns.lol/entropyduo">guns.lol</a>
-</div>
 
 ㅤ
 
-<img width="1017" height="808" alt="credit from a user in tumblr" src="https://github.com/user-attachments/assets/88083277-4ebb-44f9-8e3c-444e6bd4ed20" />
+<img width="98" height="56" alt="Tumblr_l_559147453635326" src="https://github.com/user-attachments/assets/098bbf34-e61d-4aab-a7ec-92c1fe9b1a42" />
+</div>
 
 <!--
 
