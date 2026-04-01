@@ -6,7 +6,10 @@
 </div>
 
 <div align="center">
-  <img width="549" height="219" alt="Screenshot 2026-04-01 102807" src="https://github.com/user-attachments/assets/d99bacf3-89bf-4c01-a904-ebaccafbeed2" />
+  jussis!!
+  
+  <img width="1188" height="821" alt="Screenshot 2026-04-01 103602" src="https://github.com/user-attachments/assets/9e7a8490-31b2-4687-843c-497d00d560e4" />
+  (I  can't stop changing the images. I cannot bear with the cuteness of them, specifically with Outis and Ishmael, however.)
 </div>
 
 <sup> <sub> BlnD=@3B*!@s)X"DKI";Bl7^-/g+\=A0?/9FWb=8F<G:>+ED1/BQQH]BQS?8F#ks-A8bt!/n]*@B5D-3@rH3;A8bt#D.RU,04Z^j;JJsDC2QFBDGE#U7Pm,<7m^ubAoMK[@8K:#9P\?\@nop282P-UA2/9]ARoLs5BV$d4`b:FEbTE( </sub ></sup>
