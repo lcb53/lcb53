@@ -1,8 +1,8 @@
 <div align="center"> 
-  <a href="https://rentry.co/5or3">ㅤㅤㅤㅤread byi</a>ㅤㅤ
+  <a href="https://rentry.co/5or3">read byi</a>ㅤㅤ
   <a href="https://spork.atabook.org">atabook</a>ㅤㅤ
   <a href="https://lcb53.straw.page">strawpage</a>ㅤㅤ
-  <a href="https://guns.lol/entropyduo">guns.lolㅤㅤㅤㅤ</a>
+  <a href="https://guns.lol/entropyduo">guns.lol</a>
 
 ㅤ
 
