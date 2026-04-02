@@ -4,14 +4,10 @@
   <a href="https://lcb53.straw.page">strawpage</a>ㅤㅤ
   <a href="https://guns.lol/entropyduo">guns.lol</a>
 </div>
+⠀
 
 <div align="center">
-  jussis!!
-  
-  <img width="1188" height="821" alt="Screenshot 2026-04-01 103602" src="https://github.com/user-attachments/assets/9e7a8490-31b2-4687-843c-497d00d560e4" />
-  (I  can't stop changing the images. I cannot bear with the cuteness of them, specifically with Outis and Ishmael, however.)
-
-  yes limbus kindergarten is that serious
+  <img src="https://github.com/user-attachments/assets/635485c8-6881-457f-a766-11b97b4dc79d"/>
 </div>
 
 <!--
