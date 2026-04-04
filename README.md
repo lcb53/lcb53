@@ -9,10 +9,8 @@
 </div>
 ⠀
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/635485c8-6881-457f-a766-11b97b4dc79d"/>
-</div>
-
+  https://github.com/user-attachments/assets/5ef1ba2d-51b6-4d82-b8d2-26828b23cf20
+  
 <!--
 
 <div align="center">
