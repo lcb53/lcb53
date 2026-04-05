@@ -6,8 +6,10 @@
 </div>
 ⠀
 
-  https://github.com/user-attachments/assets/5ef1ba2d-51b6-4d82-b8d2-26828b23cf20
-  
+<div align="center">
+  <img width="250" src="https://github.com/user-attachments/assets/58ac16c0-47c4-44ed-8604-9bf436570bd2" alt="don oswaldo"/>
+</div>
+
 <!--
 
 <div align="center">
