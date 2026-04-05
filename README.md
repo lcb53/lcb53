@@ -1,11 +1,8 @@
 <div align="center"> 
-  <a href="https://rentry.co/5or3">read byi (please give a glance)</a>ㅤㅤ
-  <a href="https://spork.atabook.org">atabook</a>ㅤㅤㅤㅤ
-  <a href="https://guns.lol/qsmp">guns.lol</a>
-</div>
-
-<div align="center">
-  strawpage is closed for some time TwT
+  <a href="https://rentry.co/5or3">read byi</a>⠀⠀
+  <a href="https://spork.atabook.org">atabook</a>⠀⠀
+  <a href="https://guns.lol/qsmp">guns.lol</a>⠀⠀
+  <a href="https://rentry.co/LettyK">rentry</a>
 </div>
 ⠀
 
