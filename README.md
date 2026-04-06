@@ -17,6 +17,7 @@
 
 <div align="right">
   im keeping my profile plain anyways im glitch duo glazer
+  
   also i didnt write the commit message changes
 </div>
 
