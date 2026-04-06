@@ -15,6 +15,10 @@
   <img width="250" src="https://github.com/user-attachments/assets/58ac16c0-47c4-44ed-8604-9bf436570bd2" alt="don oswaldo"/>
 </div>
 
+<div align="right">
+  im keeping my profile plain anyways im glitch duo glazer
+</div>
+
 <!--
 
 <div align="center">
