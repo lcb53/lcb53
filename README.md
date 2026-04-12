@@ -1,6 +1,3 @@
-___
-___
-
 <div align="center">    
   <img src="https://komarev.com/ghpvc/?username=Iimbus&label=lunacy&color=FF0000&style=square" alt="Profile views"/>
 </div>
@@ -22,9 +19,6 @@ ___
   <a href="https://x.com/pentar_/status/2041540736957739418">
   <img width="500" height="990" alt="image" src="https://github.com/user-attachments/assets/e63dbfc0-465d-4c51-9058-f3d4be8a9b2e" />
 </div>
-
-___
-___
 
 <!--
 
