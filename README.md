@@ -3,10 +3,10 @@
 </div>
 
 <div align="center"> 
+  reworking on a certain link⠀⠀
   <a href="https://rentry.co/5or3">read byi</a>⠀⠀
   <a href="https://spork.atabook.org">atabook</a>⠀⠀
   <a href="https://guns.lol/qsmp">guns.lol</a>⠀⠀
-  <a href="https://rentry.co/LettyK">rentry</a>
 </div>
 
 ⠀
