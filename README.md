@@ -17,6 +17,13 @@ ___
   <img src="https://github.com/user-attachments/assets/f513f0bc-e020-4b7d-987f-ced657ec9842"/>
 </div>
 
+<div align="center">
+  <img width="341" height="116" alt="image" src="https://github.com/user-attachments/assets/c525c267-1075-4930-8223-21dd0a3f55ee" />
+  
+  im og by the way
+  /<a href="https://en.wikipedia.org/wiki/Joke">joke</a>
+</div>
+
 <!--
 
 <div align="center">
