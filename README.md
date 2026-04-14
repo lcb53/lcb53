@@ -18,7 +18,7 @@ ___
 </div>
 
 <div align="center">
-  <img width="341" height="116" alt="image" src="https://github.com/user-attachments/assets/c525c267-1075-4930-8223-21dd0a3f55ee" />
+  <img width="344" height="119" alt="image" src="https://github.com/user-attachments/assets/95552991-d68c-4939-a83b-99bb0bf49764" />
   
   im og by the way
   /<a href="https://en.wikipedia.org/wiki/Joke">joke</a>
