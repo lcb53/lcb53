@@ -1,49 +1,42 @@
-<div align="center">    
-  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=lunacy&color=FF0000&style=square" alt="Profile views"/>
-</div>
-
 <div align="center">
   <table>
    <tr>
+     <td>
+       <div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=120422&interchange=false&bar_color=7f7f7f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
+</div> 
+     </td>
+     <td>
+       <div align="center">
+  <a href="https://spork.atabook.org">ata</a>⠀⠀
+  <a href="https://guns.lol/qsmp">guns.lol</a>⠀⠀
+  <a href="https://rentry.co/LettyK">rentry</a>
+</div>
+     </td>
+     <tr>
       <td>
-        placeholder
+        <img width="300" height="225" alt="Lv_preview_book3" src="https://github.com/user-attachments/assets/9fae6339-bd0d-4d4f-a542-e344c5063a21" />
         <td>
-          test
+          <div align="center">
+            $${\color{#A0A0A0}“And \space you }$$ $${\color{#7F7F7F}don't \space have }$$
+          </div>
+          <div align="center">
+            $${\color{#7F7F7F} to \space 8e \space a }$$ $${\color{#A0A0A0} good \space person \space to }$$ $${\color{#7F7F7F} 8e \space a }$$ $${\color{#7F7F7F} hero.“ }$$ 
+          </div>
         </td>
-      </td>
-      </tr>
+       </tr>
       <td>
-        <img width="340" height="13" alt="Tumblr_l_13075005346547" src="https://github.com/user-attachments/assets/1817b16f-aefc-4a7f-8fa2-bfd32bbf85b6" />
+        <div align="center">
+          <img width="300" height="13" alt="Tumblr_l_13075005346547" src="https://github.com/user-attachments/assets/1817b16f-aefc-4a7f-8fa2-bfd32bbf85b6" />
+        </div>
       </td>
     <td>
-      <img src="https://komarev.com/ghpvc/?username=Iimbus&label=lunacy&color=A0A0A0&style=square" alt="Profile views"/>
+      <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=Iimbus&label=✿&color=A0A0A0&style=square" alt="Profile views"/>
+      </div>
     </td>
     </tr>
   </table>
 </div>
 
-<!--
-
-<div align="center">
-  my g.o.a.t pentar by the way
-</div>
-
-<div align="center">
-  <a href="https://x.com/pentar_/status/2041540736957739418">
-  <img width="500" height="990" alt="image" src="https://github.com/user-attachments/assets/e63dbfc0-465d-4c51-9058-f3d4be8a9b2e" />
-</div>
-
-<!--
-
-<div align="center">
-  gif cred:
-  <a href="https://x.com/paanopticon">@paanopticon</a>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fdeb03a2-bc39-45b0-b408-e4ca92fe79a7" width="230"/>
-  <img src="https://github.com/user-attachments/assets/609c985a-34f1-4201-967b-398a8343655b" width="230"/>
-  <br/>
-  <img src="https://github.com/user-attachments/assets/745f647c-eaa4-485f-b055-5ffb7ff8249a" width="230"/>
-  <img src="https://github.com/user-attachments/assets/6f385d44-2625-4aa8-9e32-b44d4a878fc1" width="230"/>
-</div>
-
-<!-- hi guys -->
+<!-- Hail and well met, good sir or madam! May thy day be filled with valor and virtue! ^o^ -->
