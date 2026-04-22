@@ -3,15 +3,13 @@
    <tr>
      <td>
        <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=120422&interchange=false&bar_color=7f7f7f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
-</div> 
+    <img width="300" height="13" alt="Tumblr_l_13075005346547" src="https://github.com/user-attachments/assets/1817b16f-aefc-4a7f-8fa2-bfd32bbf85b6" />
+</div>
      </td>
      <td>
        <div align="center">
-  <a href="https://spork.atabook.org">ata</a>⠀⠀
-  <a href="https://guns.lol/qsmp">guns.lol</a>⠀⠀
-  <a href="https://rentry.co/LettyK">rentry</a>
-</div>
+        <img src="https://komarev.com/ghpvc/?username=Iimbus&label=✿&color=A0A0A0&style=square" alt="Profile views"/>
+      </div>
      </td>
      <tr>
       <td>
@@ -27,12 +25,16 @@
        </tr>
       <td>
         <div align="center">
-          <img width="300" height="13" alt="Tumblr_l_13075005346547" src="https://github.com/user-attachments/assets/1817b16f-aefc-4a7f-8fa2-bfd32bbf85b6" />
+          <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=c4c4c4&bar_color_cover=true&mode=light">
+          </a>
         </div>
       </td>
     <td>
       <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=Iimbus&label=✿&color=A0A0A0&style=square" alt="Profile views"/>
+  <a href="https://spork.atabook.org">ata</a>⠀⠀
+  <a href="https://guns.lol/qsmp">guns.lol</a>⠀⠀
+  <a href="https://rentry.co/LettyK">rentry</a>
       </div>
     </td>
     </tr>
