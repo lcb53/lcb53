@@ -7,9 +7,14 @@
   <a href="https://fantube.atabook.org">ata</a>⠀⠀
   <a href="https://rentry.co/LettyK">rentry</a>⠀⠀
   <a href="https://guns.lol/qsmp">guns.lol</a>
-  
-  i had a bet
 </div>
+
+<div align="center">
+  minor inconvenience
+  
+  <img width="602" height="270" alt="image" src="https://github.com/user-attachments/assets/001c12d3-a1e8-4de7-889e-fc7f380d75b6" />
+</div>
+
 
 <!-- hidden things i will need some time
 
