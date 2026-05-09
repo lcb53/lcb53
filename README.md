@@ -8,12 +8,7 @@
 
 ⠀
 
-<div align="right">⠀
-  <sub> <sup> no ai is used dont flame me here yet </sup> </sub>
-</div>
-
-> [!NOTE]
-> Taking a time for an indefinite hiatus; I wont go online on PonyTown nor interact with others online--meaning I will completely cut contact with every people I know including my friends, best friends, and people I know so well that is the only reason why I played PonyTown in the first place for my own good and a little while. Perhaps, I will be still be online on Discord (you can see it from guns.lol), but this doesn't change the fact. This means there is no approximate time when this hiatus ends or proper date. And this also means my account will be frozen in-time (no one is accessing these account besides me, Dotonaro). When I think about it, everyone in the internet can be weird and sometimes they influence me in bad or horrible things and I don't like those D: ... I am also trying to change and shape my characteristics properly because manners goes first and I'm quite impolite with others and just so happen to be never respecting rules or boundaries. If you're one of my friends or somebody I know reading this, I'm just letting you know that. And once again, I'm sorry if I made a mistake, confuse you (specifically with grammar because English isn't my first language), or annoyed you.
+self explanatory 
 
 <!-- hidden things i will need some time
 
