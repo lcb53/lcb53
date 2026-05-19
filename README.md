@@ -1,5 +1,25 @@
 im kind of lazy to edit my rentry including this repository yeah
 
+um
+
+uuhhhhh
+
+ummmmmmmm
+
+remaking this
+
+entire
+
+repository 
+
+soon
+
+maybe
+
+yesterday
+
+⠀⠀
+
 things i like: projectmoon (i like lobcorp more), unstable smp/universe, qsmp (2), mewgenics (please spare me tboi glazers im a newgen), lifesteal, just cause 3, ultrakill, bfdi/bfdia
 
 yes i played gta 5 i just dont count and memorize moneys like that
