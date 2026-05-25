@@ -17,9 +17,7 @@
 </div>
 
 <div align="center">
-  psa: i am going to leave 
-  <a href="https://docs.google.com/document/d/1l9wqO7RSlZdLtcDmCRFu96PfntmufOgiTJYO4uyzyA0/edit?tab=t.0">
-    this docs for a while in my profile to do something or help my friends situation.</a>
-    
-   also happy mental health awareness month guys!!
+  psa: The Google Docs? It's gone. I've seen everything, yet I still don't have a single clue where'd it all go. But I do know who to put blame on. I am always listening.
+  
+   Also, Happy Mental Health Awareness Month. It's coming into an end
 </div>
